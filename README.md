@@ -57,7 +57,7 @@ Start the server using the `start` script:
 ```bash
 npm start
 
----------------------
+---
 
 Database Configuration
 
